@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\C# scripts\Character Controls\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\C# scripts\Gameplay\GameManager.cs" Line="129" Column="3" />
+      <File FileName="Assets\C# scripts\Gameplay\TutorialController.cs" Line="36" Column="30" />
+      <File FileName="Assets\C# scripts\Character Controls\PlayerController.cs" Line="258" Column="66" />
+      <File FileName="Assets\C# scripts\Gameplay\Scoring.cs" Line="26" Column="17" />
+      <File FileName="Assets\C# scripts\HEIM Backbone\HUD.cs" Line="97" Column="8" />
+      <File FileName="Assets\C# scripts\Character Controls\Controller.cs" Line="159" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

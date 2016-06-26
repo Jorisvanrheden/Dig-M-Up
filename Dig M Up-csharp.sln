@@ -1,0 +1,55 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{471845F2-EA6A-B1EA-4772-D7936F3101BE}") = "Dig M Up", "Assembly-CSharp-firstpass-vs.csproj", "{EC3D7382-87E4-2A97-1381-A622C379C4B9}"
+EndProject
+Project("{471845F2-EA6A-B1EA-4772-D7936F3101BE}") = "Dig M Up", "Assembly-CSharp-vs.csproj", "{A6804255-E83F-FE8A-742F-5B9442CD6643}"
+EndProject
+Project("{471845F2-EA6A-B1EA-4772-D7936F3101BE}") = "Dig M Up", "Assembly-CSharp-Editor-vs.csproj", "{AD866CFA-9055-2F7D-85F9-2175E98E2267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3D7382-87E4-2A97-1381-A622C379C4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3D7382-87E4-2A97-1381-A622C379C4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3D7382-87E4-2A97-1381-A622C379C4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3D7382-87E4-2A97-1381-A622C379C4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6804255-E83F-FE8A-742F-5B9442CD6643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6804255-E83F-FE8A-742F-5B9442CD6643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6804255-E83F-FE8A-742F-5B9442CD6643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6804255-E83F-FE8A-742F-5B9442CD6643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD866CFA-9055-2F7D-85F9-2175E98E2267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD866CFA-9055-2F7D-85F9-2175E98E2267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD866CFA-9055-2F7D-85F9-2175E98E2267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD866CFA-9055-2F7D-85F9-2175E98E2267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																		GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																							GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> f7d38342d8d960f085c47e483bb893604245216e:Dig M Up/Dig M Up.sln
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

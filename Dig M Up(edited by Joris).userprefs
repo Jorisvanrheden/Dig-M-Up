@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\C# scripts\Gameplay\GameManager.cs">
+    <Files>
+      <File FileName="Assets\C# scripts\CameraSounds.cs" Line="27" Column="8" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs" Line="1" Column="1" />
+      <File FileName="Assets\C# scripts\HEIM Backbone\Arguments.cs" Line="1" Column="1" />
+      <File FileName="Assets\C# scripts\Character Controls\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\C# scripts\Character Controls\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\C# scripts\Character Controls\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\C# scripts\Gameplay\TutorialController.cs" Line="116" Column="25" />
+      <File FileName="Assets\C# scripts\Gameplay\GameManager.cs" Line="481" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
